@@ -1,0 +1,15 @@
+C:\Users\LebitaA\RiderProjects\LearningPlace\TestingStuff\bin\Debug\net6.0\TestingStuff.exe
+C:\Users\LebitaA\RiderProjects\LearningPlace\TestingStuff\bin\Debug\net6.0\TestingStuff.deps.json
+C:\Users\LebitaA\RiderProjects\LearningPlace\TestingStuff\bin\Debug\net6.0\TestingStuff.runtimeconfig.json
+C:\Users\LebitaA\RiderProjects\LearningPlace\TestingStuff\bin\Debug\net6.0\TestingStuff.dll
+C:\Users\LebitaA\RiderProjects\LearningPlace\TestingStuff\bin\Debug\net6.0\TestingStuff.pdb
+C:\Users\LebitaA\RiderProjects\LearningPlace\TestingStuff\obj\Debug\net6.0\TestingStuff.csproj.AssemblyReference.cache
+C:\Users\LebitaA\RiderProjects\LearningPlace\TestingStuff\obj\Debug\net6.0\TestingStuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LebitaA\RiderProjects\LearningPlace\TestingStuff\obj\Debug\net6.0\TestingStuff.AssemblyInfoInputs.cache
+C:\Users\LebitaA\RiderProjects\LearningPlace\TestingStuff\obj\Debug\net6.0\TestingStuff.AssemblyInfo.cs
+C:\Users\LebitaA\RiderProjects\LearningPlace\TestingStuff\obj\Debug\net6.0\TestingStuff.csproj.CoreCompileInputs.cache
+C:\Users\LebitaA\RiderProjects\LearningPlace\TestingStuff\obj\Debug\net6.0\TestingStuff.dll
+C:\Users\LebitaA\RiderProjects\LearningPlace\TestingStuff\obj\Debug\net6.0\refint\TestingStuff.dll
+C:\Users\LebitaA\RiderProjects\LearningPlace\TestingStuff\obj\Debug\net6.0\TestingStuff.pdb
+C:\Users\LebitaA\RiderProjects\LearningPlace\TestingStuff\obj\Debug\net6.0\TestingStuff.genruntimeconfig.cache
+C:\Users\LebitaA\RiderProjects\LearningPlace\TestingStuff\obj\Debug\net6.0\ref\TestingStuff.dll
